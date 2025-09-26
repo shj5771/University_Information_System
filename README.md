@@ -38,10 +38,12 @@
 ### 학생 사용자UI
 
 #### 로그인 화면
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/577d3056-b00a-4d3b-a22d-cd23c651656f" />
+<img width="483" height="323" alt="image" src="https://github.com/user-attachments/assets/026ad548-6909-4de3-b1ab-57da16922052" />
+
 
 #### 수강신청 화면
-<img width="1690" height="689" alt="image" src="https://github.com/user-attachments/assets/8fdc5ae0-8620-4095-af1a-96add73da5a9" />
+<img width="432" height="375" alt="image" src="https://github.com/user-attachments/assets/17a76baf-e809-49cd-b7bd-1728ed6bb639" />
+
 
 ### 교수 사용자UI
 
@@ -49,7 +51,8 @@
 <img width="439" height="370" alt="image" src="https://github.com/user-attachments/assets/6ec0a157-d947-4658-9305-679c52f1aea2" />
 
 #### 성적 부여
-<img width="493" height="363" alt="image" src="https://github.com/user-attachments/assets/67e03d0c-5352-4e22-82b2-b38522deb63f" />
+<img width="450" height="341" alt="image" src="https://github.com/user-attachments/assets/d0e69ec0-482a-43fb-bd53-0a8be1957ffa" />
+
 
 ### 수업 담당자UI
 
@@ -60,7 +63,9 @@
 <img width="910" height="342" alt="image" src="https://github.com/user-attachments/assets/cc71725c-c101-40fb-ad8f-eb21fcd994d1" />
 
 #### 수강료 청구
-<img width="790" height="382" alt="image" src="https://github.com/user-attachments/assets/85a077b8-00ed-4607-9140-5182ee04d3d0" />
+<img width="544" height="497" alt="image" src="https://github.com/user-attachments/assets/f1577deb-7dbb-4bf8-b6f4-5e3b181ed5ae" />
+
+
 
 ### 학사 담당자UI
 
