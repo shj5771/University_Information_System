@@ -1,4 +1,4 @@
-<img width="609" height="517" alt="image" src="https://github.com/user-attachments/assets/b7e783fa-feb5-4f88-a59a-a9e0b34d886e" />##  프로젝트 개요
+##  프로젝트 개요
 본 프로젝트는 **대학 학사정보시스템(UIS)** 을 구현한 것으로,  
 교수·학생·직원 등 대학 구성원의 학사 관리와 수강신청 업무를 효율화하기 위해 설계되었다.
 
@@ -40,10 +40,8 @@
 #### 로그인 화면
 <img width="483" height="323" alt="image" src="https://github.com/user-attachments/assets/026ad548-6909-4de3-b1ab-57da16922052" />
 
-
 #### 수강신청 화면
 <img width="432" height="375" alt="image" src="https://github.com/user-attachments/assets/17a76baf-e809-49cd-b7bd-1728ed6bb639" />
-
 
 ### 교수 사용자UI
 
@@ -59,9 +57,6 @@
 #### 강좌 등록
 <img width="609" height="517" alt="image" src="https://github.com/user-attachments/assets/55da9228-c586-4f53-8b31-907f646f3b7a" />
 
-
-#### 강좌 개설
-<img width="910" height="342" alt="image" src="https://github.com/user-attachments/assets/cc71725c-c101-40fb-ad8f-eb21fcd994d1" />
 
 #### 수강료 청구
 <img width="544" height="497" alt="image" src="https://github.com/user-attachments/assets/f1577deb-7dbb-4bf8-b6f4-5e3b181ed5ae" />
