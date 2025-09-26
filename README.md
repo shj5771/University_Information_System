@@ -46,7 +46,8 @@
 ### 교수 사용자UI
 
 #### 출석부 관리
-<img width="439" height="370" alt="image" src="https://github.com/user-attachments/assets/6ec0a157-d947-4658-9305-679c52f1aea2" />
+<img width="611" height="521" alt="image" src="https://github.com/user-attachments/assets/c5493673-082f-4b72-8087-68ad5f9df5f8" />
+
 
 #### 성적 부여
 <img width="450" height="341" alt="image" src="https://github.com/user-attachments/assets/d0e69ec0-482a-43fb-bd53-0a8be1957ffa" />
@@ -60,6 +61,7 @@
 
 #### 수강료 청구
 <img width="544" height="497" alt="image" src="https://github.com/user-attachments/assets/f1577deb-7dbb-4bf8-b6f4-5e3b181ed5ae" />
+<img width="400" height="396" alt="image" src="https://github.com/user-attachments/assets/049017fe-289d-4f57-951f-0c410b3338ac" />
 
 
 
